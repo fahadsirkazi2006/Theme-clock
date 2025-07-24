@@ -27,7 +27,7 @@ This is a simple, responsive digital clock built with HTML, CSS, and JavaScript.
 
 ## 📂 Live Demo
 
-[Click to View Project](https://fahadsirkazi2006.github.io/clock-theme-toggle/)
+[Click to View Project](https://fahadsirkazi2006.github.io/Theme-clock/)
 
 ---
 
